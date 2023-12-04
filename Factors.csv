@@ -1,0 +1,16 @@
+﻿Id;IdCategory;Source;Factor value
+1;1;LPG;1.55709
+2;1;Petrol;2.16185
+3;1;Diesel;2.55784
+4;2;R401A;16
+5;2;R401B;14
+6;2;R401C;19
+7;3;Electricity;0.19338
+8;3;Bio Petrol;0.01402
+9;3;Biomass;0.04303576
+10;4;Glass;1.402766667
+11;4;Plastic;3.116291564
+12;4;Wood;0.31261178
+13;5;Car;0.17048
+14;5;Rail;0.03549
+15;5;Bus;0.10778
